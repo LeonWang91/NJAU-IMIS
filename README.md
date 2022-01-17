@@ -1,4 +1,4 @@
-# [南京农业大学信息管理与信息系统专业课程资料](#)
+# 南京农业大学信息管理与信息系统专业课程资料
 
 
 ## [个人简介](#)
@@ -8,6 +8,9 @@
 有任何问题可以加群或私信交流，<br/>
 如果喜欢的话，记得点赞收藏呦。<br/>
 ❤ ❤ ❤
+QQ群-NJAU-IMIS：162141000
+申请加群请备注：南农+姓名+专业+年级
+进群后修改备注：年级+专业+姓名，如18-信息-南浔Pyer
 
 
 ## [资料目录](#)
@@ -31,18 +34,21 @@
 <tr><td ><a href="#">第七学年</a></td></tr>
 </table>
 
+
 ## [更新日志](#)
 ### V1.0 2022/01/17
-* 更新了代码
-* 修复了漏洞
-* 优化了功能
-
-## [关于博主](#)
-[logo](https://images.cnblogs.com/cnblogs_com/occlive/1791664/o_200704081145xiaoen.png)
+* 资料上传与整理
 
 
 ## [关于博主](#)
-#### <p style="color:pink;">创作不易，请投喂零食~。=w=</p>
-<img alt="二维码" src="https://images.cnblogs.com/cnblogs_com/occlive/1791167/o_200621150108qq.jpg" width="300px" height="300px">
+[CSDN：南浔Pyer](https://blog.csdn.net/qq_45538469)
+[知乎：南浔Pyer](https://www.zhihu.com/people/mo-chen-42-54)
+[个人网站：DL小站](https://www.idalei.top/)
+[GitHub：LeoWang91](https://github.com/LeoWang91)
 
+
+
+## [文末宣传](#)
+### 博主自己开发的小程序
+<img alt="小呦" src="https://user-images.githubusercontent.com/60532543/149790168-2a8847f2-1761-465f-98af-acd63cc5c89e.png" width="300px" height="300px">
 
