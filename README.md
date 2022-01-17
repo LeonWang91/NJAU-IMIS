@@ -45,10 +45,10 @@ QQ群-NJAU-IMIS：162141000
 
 ## 关于博主
 
-[CSDN：南浔Pyer](https://blog.csdn.net/qq_45538469)<br/>
-[知乎：南浔Pyer](https://www.zhihu.com/people/mo-chen-42-54)<br/>
-[个人网站：DL小站](https://www.idalei.top/)<br/>
-[GitHub：LeoWang91](https://github.com/LeoWang91)<br/>
+### CSDN：[南浔Pyer](https://blog.csdn.net/qq_45538469)<br/>
+### 知乎：[南浔Pyer](https://www.zhihu.com/people/mo-chen-42-54)<br/>
+### 个人网站：[DL小站](https://www.idalei.top/)<br/>
+### GitHub：[LeoWang91](https://github.com/LeoWang91)<br/>
 
 
 ## 文末宣传
