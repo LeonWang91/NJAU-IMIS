@@ -1,7 +1,8 @@
 # 南京农业大学信息管理与信息系统专业课程资料
 
 
-## [个人简介](#)
+## 个人简介
+
 博主是南农18级信管专业的学长，<br/>
 趁着大四寒假把资料整理了一下，<br/>
 学弟学妹们可以根据需要来下载，<br/>
@@ -13,7 +14,8 @@ QQ群-NJAU-IMIS：162141000
 进群后修改备注：年级+专业+姓名，如18-信息-南浔Pyer
 
 
-## [资料目录](#)
+## 资料目录
+
 <table>
 <tr><td ><a href="#">第一学年</a></td></tr>
   <tr><td>&emsp;<a href="#">信息资源管理</a></td></tr>
@@ -35,20 +37,22 @@ QQ群-NJAU-IMIS：162141000
 </table>
 
 
-## [更新日志](#)
+## 更新日志
+
 ### V1.0 2022/01/17
 * 资料上传与整理
 
 
-## [关于博主](#)
+## 关于博主
+
 [CSDN：南浔Pyer](https://blog.csdn.net/qq_45538469)
 [知乎：南浔Pyer](https://www.zhihu.com/people/mo-chen-42-54)
 [个人网站：DL小站](https://www.idalei.top/)
 [GitHub：LeoWang91](https://github.com/LeoWang91)
 
 
+## 文末宣传
 
-## [文末宣传](#)
 ### 博主自己开发的小程序
 ![image](https://user-images.githubusercontent.com/60532543/149790326-837fc477-a296-4a30-afd1-8a78ac050687.png)
 
