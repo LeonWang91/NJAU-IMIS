@@ -17,23 +17,23 @@ QQ群-NJAU-IMIS：162141000<br/>
 ## 资料目录
 
 <table>
-<tr><td ><a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%B9%B4">第一学年</a></td></tr>
+<tr><td ><a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%B9%B4">第一学期</a></td></tr>
   <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%B9%B4/%E4%BF%A1%E6%81%AF%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86">信息资源管理</a></td></tr>
   <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%B9%B4/%E5%BE%AE%E7%A7%AF%E5%88%86%E2%85%A0B">微积分ⅠB</a></td></tr>
   <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%B9%B4/%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%BF%AE%E5%85%BB%E4%B8%8E%E6%B3%95%E5%BE%8B%E5%9F%BA%E7%A1%80">思想道德修养与法律基础</a></td></tr>
   <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%B9%B4/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AF%BC%E8%AE%BA">计算机导论</a></td></tr>
   
-<tr><td ><a href="#">第二学年</a></td></tr>
+<tr><td ><a href="#">第二学期</a></td></tr>
   
-<tr><td ><a href="#">第三学年</a></td></tr>
+<tr><td ><a href="#">第三学期</a></td></tr>
   
-<tr><td ><a href="#">第四学年</a></td></tr>
+<tr><td ><a href="#">第四学期</a></td></tr>
   
-<tr><td ><a href="#">第五学年</a></td></tr>
+<tr><td ><a href="#">第五学期</a></td></tr>
   
-<tr><td ><a href="#">第六学年</a></td></tr>
+<tr><td ><a href="#">第六学期</a></td></tr>
   
-<tr><td ><a href="#">第七学年</a></td></tr>
+<tr><td ><a href="#">第七学期</a></td></tr>
 </table>
 
 
