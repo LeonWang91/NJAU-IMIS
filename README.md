@@ -50,5 +50,5 @@ QQ群-NJAU-IMIS：162141000
 
 ## [文末宣传](#)
 ### 博主自己开发的小程序
-<img alt="小呦" src="https://user-images.githubusercontent.com/60532543/149790168-2a8847f2-1761-465f-98af-acd63cc5c89e.png" width="300px" height="300px">
+![image](https://user-images.githubusercontent.com/60532543/149790326-837fc477-a296-4a30-afd1-8a78ac050687.png)
 
