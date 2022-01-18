@@ -34,12 +34,14 @@ QQ群-NJAU-IMIS：162141000<br/>
   <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20A">线性代数 A</a></td></tr>
   
 <tr><td ><a href="#">第三学期</a></td></tr>
-  <tr><td>&emsp;<a href="#">C程序设计Ⅲ</a></td></tr>
-  <tr><td>&emsp;<a href="#">管理学原理</a></td></tr>
-  <tr><td>&emsp;<a href="#">科技文献检索</a></td></tr>
-  <tr><td>&emsp;<a href="#">微积分ⅡB</a></td></tr>
-  <tr><td>&emsp;<a href="#">线性代数 A</a></td></tr>
-  <tr><td>&emsp;<a href="#">信息政策与法规</a></td></tr>
+  <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F/%E4%BC%A0%E5%AA%92%E8%8B%B1%E8%AF%AD%E9%98%85%E8%AF%BB">传媒英语阅读</a></td></tr>
+  <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F/%E4%BF%A1%E6%81%AF%E7%BB%84%E7%BB%87">信息组织</a></td></tr>
+  <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F/%E5%AE%9E%E7%94%A8%E7%AC%94%E8%AF%91%E5%AE%9E%E8%B7%B5">实用笔译实践</a></td></tr>
+  <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84">数据结构</a></td></tr>
+  <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%20A">概率论与数理统计 A</a></td></tr>
+  <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89">毛泽东思想和中国特色社会主义</a></td></tr>
+  <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F/%E7%A7%91%E6%8A%80%E6%9F%A5%E6%96%B0">科技查新</a></td></tr>
+  <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1">面向对象程序设计</a></td></tr> 
   
 <tr><td ><a href="#">第四学期</a></td></tr>
   <tr><td>&emsp;<a href="#">C程序设计Ⅲ</a></td></tr>
@@ -83,6 +85,7 @@ QQ群-NJAU-IMIS：162141000<br/>
 
 ### V1.0 2022/01/18
 * 第二学期资料上传
+* 第三学期资料上传
 
 ## 关于博主
 
