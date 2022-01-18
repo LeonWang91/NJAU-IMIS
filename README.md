@@ -18,18 +18,19 @@ QQ群-NJAU-IMIS：162141000<br/>
 
 <table>
 <tr><td ><a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F">第一学期</a></td></tr>
-  <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%B9%B4/%E4%BF%A1%E6%81%AF%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86">信息资源管理</a></td></tr>
-  <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%B9%B4/%E5%BE%AE%E7%A7%AF%E5%88%86%E2%85%A0B">微积分ⅠB</a></td></tr>
-  <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%B9%B4/%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%BF%AE%E5%85%BB%E4%B8%8E%E6%B3%95%E5%BE%8B%E5%9F%BA%E7%A1%80">思想道德修养与法律基础</a></td></tr>
-  <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%B9%B4/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AF%BC%E8%AE%BA">计算机导论</a></td></tr>
+  <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/%E4%BF%A1%E6%81%AF%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86">信息资源管理</a></td></tr>
+  <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/%E5%BE%AE%E7%A7%AF%E5%88%86%E2%85%A0B">微积分ⅠB</a></td></tr>
+  <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%BF%AE%E5%85%BB%E4%B8%8E%E6%B3%95%E5%BE%8B%E5%9F%BA%E7%A1%80">思想道德修养与法律基础</a></td></tr>
+  <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AF%BC%E8%AE%BA">计算机导论</a></td></tr>
   
-<tr><td ><a href="#">第二学期</a></td></tr>
-  <tr><td>&emsp;<a href="#">C程序设计Ⅲ</a></td></tr>
-  <tr><td>&emsp;<a href="#">管理学原理</a></td></tr>
-  <tr><td>&emsp;<a href="#">科技文献检索</a></td></tr>
-  <tr><td>&emsp;<a href="#">微积分ⅡB</a></td></tr>
-  <tr><td>&emsp;<a href="#">线性代数 A</a></td></tr>
-  <tr><td>&emsp;<a href="#">信息政策与法规</a></td></tr>
+<tr><td ><a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F">第二学期</a></td></tr>
+  <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/C%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E2%85%A2">C程序设计Ⅲ</a></td></tr>
+  <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/%E4%BF%A1%E6%81%AF%E6%94%BF%E7%AD%96%E4%B8%8E%E6%B3%95%E8%A7%84">信息政策与法规</a></td></tr>
+  <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA">军事理论</a></td></tr>
+  <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/%E5%BE%AE%E7%A7%AF%E5%88%86%E2%85%A1B">微积分ⅡB</a></td></tr>
+  <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/%E7%A7%91%E6%8A%80%E6%96%87%E7%8C%AE%E6%A3%80%E7%B4%A2">科技文献检索</a></td></tr>
+  <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/%E7%AE%A1%E7%90%86%E5%AD%A6%E5%8E%9F%E7%90%86">管理学原理</a></td></tr>
+  <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20A">线性代数 A</a></td></tr>
   
 <tr><td ><a href="#">第三学期</a></td></tr>
   <tr><td>&emsp;<a href="#">C程序设计Ⅲ</a></td></tr>
@@ -77,8 +78,10 @@ QQ群-NJAU-IMIS：162141000<br/>
 ## 更新日志
 
 ### V1.0 2022/01/17
-* 资料上传与整理
+* 第一学期资料上传
 
+### V1.0 2022/01/18
+* 第二学期资料上传
 
 ## 关于博主
 
