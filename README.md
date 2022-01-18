@@ -33,7 +33,7 @@ QQ群-NJAU-IMIS：162141000<br/>
   <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/%E7%AE%A1%E7%90%86%E5%AD%A6%E5%8E%9F%E7%90%86">管理学原理</a></td></tr>
   <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20A">线性代数 A</a></td></tr>
   
-<tr><td ><a href="#">第三学期</a></td></tr>
+<tr><td ><a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F">第三学期</a></td></tr>
   <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F/%E4%BC%A0%E5%AA%92%E8%8B%B1%E8%AF%AD%E9%98%85%E8%AF%BB">传媒英语阅读</a></td></tr>
   <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F/%E4%BF%A1%E6%81%AF%E7%BB%84%E7%BB%87">信息组织</a></td></tr>
   <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F/%E5%AE%9E%E7%94%A8%E7%AC%94%E8%AF%91%E5%AE%9E%E8%B7%B5">实用笔译实践</a></td></tr>
