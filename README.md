@@ -24,16 +24,53 @@ QQ群-NJAU-IMIS：162141000<br/>
   <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%B9%B4/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AF%BC%E8%AE%BA">计算机导论</a></td></tr>
   
 <tr><td ><a href="#">第二学期</a></td></tr>
+  <tr><td>&emsp;<a href="#">C程序设计Ⅲ</a></td></tr>
+  <tr><td>&emsp;<a href="#">管理学原理</a></td></tr>
+  <tr><td>&emsp;<a href="#">科技文献检索</a></td></tr>
+  <tr><td>&emsp;<a href="#">微积分ⅡB</a></td></tr>
+  <tr><td>&emsp;<a href="#">线性代数 A</a></td></tr>
+  <tr><td>&emsp;<a href="#">信息政策与法规</a></td></tr>
   
 <tr><td ><a href="#">第三学期</a></td></tr>
+  <tr><td>&emsp;<a href="#">C程序设计Ⅲ</a></td></tr>
+  <tr><td>&emsp;<a href="#">管理学原理</a></td></tr>
+  <tr><td>&emsp;<a href="#">科技文献检索</a></td></tr>
+  <tr><td>&emsp;<a href="#">微积分ⅡB</a></td></tr>
+  <tr><td>&emsp;<a href="#">线性代数 A</a></td></tr>
+  <tr><td>&emsp;<a href="#">信息政策与法规</a></td></tr>
   
 <tr><td ><a href="#">第四学期</a></td></tr>
+  <tr><td>&emsp;<a href="#">C程序设计Ⅲ</a></td></tr>
+  <tr><td>&emsp;<a href="#">管理学原理</a></td></tr>
+  <tr><td>&emsp;<a href="#">科技文献检索</a></td></tr>
+  <tr><td>&emsp;<a href="#">微积分ⅡB</a></td></tr>
+  <tr><td>&emsp;<a href="#">线性代数 A</a></td></tr>
+  <tr><td>&emsp;<a href="#">信息政策与法规</a></td></tr>
   
 <tr><td ><a href="#">第五学期</a></td></tr>
+  <tr><td>&emsp;<a href="#">C程序设计Ⅲ</a></td></tr>
+  <tr><td>&emsp;<a href="#">管理学原理</a></td></tr>
+  <tr><td>&emsp;<a href="#">科技文献检索</a></td></tr>
+  <tr><td>&emsp;<a href="#">微积分ⅡB</a></td></tr>
+  <tr><td>&emsp;<a href="#">线性代数 A</a></td></tr>
+  <tr><td>&emsp;<a href="#">信息政策与法规</a></td></tr>
   
 <tr><td ><a href="#">第六学期</a></td></tr>
+  <tr><td>&emsp;<a href="#">C程序设计Ⅲ</a></td></tr>
+  <tr><td>&emsp;<a href="#">管理学原理</a></td></tr>
+  <tr><td>&emsp;<a href="#">科技文献检索</a></td></tr>
+  <tr><td>&emsp;<a href="#">微积分ⅡB</a></td></tr>
+  <tr><td>&emsp;<a href="#">线性代数 A</a></td></tr>
+  <tr><td>&emsp;<a href="#">信息政策与法规</a></td></tr>
   
 <tr><td ><a href="#">第七学期</a></td></tr>
+  <tr><td>&emsp;<a href="#">C程序设计Ⅲ</a></td></tr>
+  <tr><td>&emsp;<a href="#">管理学原理</a></td></tr>
+  <tr><td>&emsp;<a href="#">科技文献检索</a></td></tr>
+  <tr><td>&emsp;<a href="#">微积分ⅡB</a></td></tr>
+  <tr><td>&emsp;<a href="#">线性代数 A</a></td></tr>
+  <tr><td>&emsp;<a href="#">信息政策与法规</a></td></tr>
+  
 </table>
 
 
