@@ -57,13 +57,13 @@ QQ群-NJAU-IMIS：162141000<br/>
   <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%BA%94%E5%AD%A6%E6%9C%9F/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80">计算机网络基础</a></td></tr>
   <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%BA%94%E5%AD%A6%E6%9C%9F/%E9%87%8F%E5%8C%96%E7%A0%94%E7%A9%B6%E4%B8%8E%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90">量化研究与统计分析</a></td></tr>
   
-<tr><td ><a href="#">第六学期</a></td></tr>
-  <tr><td>&emsp;<a href="#">C程序设计Ⅲ</a></td></tr>
-  <tr><td>&emsp;<a href="#">管理学原理</a></td></tr>
-  <tr><td>&emsp;<a href="#">科技文献检索</a></td></tr>
-  <tr><td>&emsp;<a href="#">微积分ⅡB</a></td></tr>
-  <tr><td>&emsp;<a href="#">线性代数 A</a></td></tr>
-  <tr><td>&emsp;<a href="#">信息政策与法规</a></td></tr>
+<tr><td ><a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E5%85%AD%E5%AD%A6%E6%9C%9F">第六学期</a></td></tr>
+  <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E5%85%AD%E5%AD%A6%E6%9C%9F/Python%E8%AF%AD%E8%A8%80">Python语言</a></td></tr>
+  <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E5%85%AD%E5%AD%A6%E6%9C%9F/R%E8%AF%AD%E8%A8%80">R语言</a></td></tr>
+  <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E5%85%AD%E5%AD%A6%E6%9C%9F/%E4%B8%AD%E6%96%87%E4%BF%A1%E6%81%AF%E5%A4%84%E7%90%86">中文信息处理</a></td></tr>
+  <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E5%85%AD%E5%AD%A6%E6%9C%9F/%E4%BF%A1%E6%81%AF%E6%A3%80%E7%B4%A2%E7%B3%BB%E7%BB%9F">信息检索系统</a></td></tr>
+  <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E5%85%AD%E5%AD%A6%E6%9C%9F/%E4%BF%A1%E6%81%AF%E7%A0%94%E7%A9%B6%E4%B8%8E%E9%A2%84%E6%B5%8B">信息研究与预测</a></td></tr>
+  <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E5%85%AD%E5%AD%A6%E6%9C%9F/%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1">信息系统分析与设计</a></td></tr>
   
 <tr><td ><a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%B8%83%E5%AD%A6%E6%9C%9F">第七学期</a></td></tr>
   <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%B8%83%E5%AD%A6%E6%9C%9F/%E4%BF%A1%E6%81%AF%E8%AE%A1%E9%87%8F%E5%AD%A6">信息计量学</a></td></tr>
@@ -80,6 +80,12 @@ QQ群-NJAU-IMIS：162141000<br/>
 ### V1.0 2022/01/18
 * 第二学期资料上传
 * 第三学期资料上传
+
+### V1.0 2022/02/06
+* 第四学期资料上传
+* 第五学期资料上传
+* 第六学期资料上传
+* 第七学期资料上传
 
 ## 关于博主
 
