@@ -65,13 +65,9 @@ QQ群-NJAU-IMIS：162141000<br/>
   <tr><td>&emsp;<a href="#">线性代数 A</a></td></tr>
   <tr><td>&emsp;<a href="#">信息政策与法规</a></td></tr>
   
-<tr><td ><a href="#">第七学期</a></td></tr>
-  <tr><td>&emsp;<a href="#">C程序设计Ⅲ</a></td></tr>
-  <tr><td>&emsp;<a href="#">管理学原理</a></td></tr>
-  <tr><td>&emsp;<a href="#">科技文献检索</a></td></tr>
-  <tr><td>&emsp;<a href="#">微积分ⅡB</a></td></tr>
-  <tr><td>&emsp;<a href="#">线性代数 A</a></td></tr>
-  <tr><td>&emsp;<a href="#">信息政策与法规</a></td></tr>
+<tr><td ><a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%B8%83%E5%AD%A6%E6%9C%9F">第七学期</a></td></tr>
+  <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%B8%83%E5%AD%A6%E6%9C%9F/%E4%BF%A1%E6%81%AF%E8%AE%A1%E9%87%8F%E5%AD%A6">信息计量学</a></td></tr>
+  <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%B8%83%E5%AD%A6%E6%9C%9F/%E7%AE%A1%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E5%AE%9E%E8%B7%B5">管理信息系统实践</a></td></tr>
   
 </table>
 
