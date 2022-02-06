@@ -43,7 +43,7 @@ QQ群-NJAU-IMIS：162141000<br/>
   <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F/%E7%A7%91%E6%8A%80%E6%9F%A5%E6%96%B0">科技查新</a></td></tr>
   <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1">面向对象程序设计</a></td></tr> 
   
-<tr><td ><a href="#">第四学期</a></td></tr>
+<tr><td ><a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E5%9B%9B%E5%AD%A6%E6%9C%9F">第四学期</a></td></tr>
   <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E5%9B%9B%E5%AD%A6%E6%9C%9F/%E4%BF%A1%E6%81%AF%E8%B0%83%E6%9F%A5%E6%96%B9%E6%B3%95">信息调查方法</a></td></tr>
   <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E5%9B%9B%E5%AD%A6%E6%9C%9F/%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%BA%94%E7%94%A8">多媒体技术及应用</a></td></tr>
   <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E5%9B%9B%E5%AD%A6%E6%9C%9F/%E6%83%85%E6%8A%A5%E8%AF%AD%E8%A8%80%E5%AD%A6">情报语言学</a></td></tr>
@@ -52,13 +52,10 @@ QQ群-NJAU-IMIS：162141000<br/>
   <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E5%9B%9B%E5%AD%A6%E6%9C%9F/%E7%AE%A1%E7%90%86%E7%BB%9F%E8%AE%A1%E5%AD%A6">管理统计学</a></td></tr>
   <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E5%9B%9B%E5%AD%A6%E6%9C%9F/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86">马克思主义基本原理</a></td></tr>
   
-<tr><td ><a href="#">第五学期</a></td></tr>
-  <tr><td>&emsp;<a href="#">C程序设计Ⅲ</a></td></tr>
-  <tr><td>&emsp;<a href="#">管理学原理</a></td></tr>
-  <tr><td>&emsp;<a href="#">科技文献检索</a></td></tr>
-  <tr><td>&emsp;<a href="#">微积分ⅡB</a></td></tr>
-  <tr><td>&emsp;<a href="#">线性代数 A</a></td></tr>
-  <tr><td>&emsp;<a href="#">信息政策与法规</a></td></tr>
+<tr><td ><a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%BA%94%E5%AD%A6%E6%9C%9F">第五学期</a></td></tr>
+  <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%BA%94%E5%AD%A6%E6%9C%9F/%E7%BB%8F%E6%B5%8E%E4%BF%A1%E6%81%AF%E5%AD%A6">经济信息学</a></td></tr>
+  <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%BA%94%E5%AD%A6%E6%9C%9F/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80">计算机网络基础</a></td></tr>
+  <tr><td>&emsp;<a href="https://github.com/LeoWang91/NJAU-IMIS/tree/main/%E7%AC%AC%E4%BA%94%E5%AD%A6%E6%9C%9F/%E9%87%8F%E5%8C%96%E7%A0%94%E7%A9%B6%E4%B8%8E%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90">量化研究与统计分析</a></td></tr>
   
 <tr><td ><a href="#">第六学期</a></td></tr>
   <tr><td>&emsp;<a href="#">C程序设计Ⅲ</a></td></tr>
