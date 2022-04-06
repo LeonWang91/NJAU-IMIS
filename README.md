@@ -14,6 +14,9 @@ QQ群-NJAU-IMIS：162141000<br/>
 申请加群请备注：南农+姓名+专业+年级<br/>
 进群后修改备注：年级+专业+姓名，如18-信息-南浔Pyer
 
+## 最新地址
+<a href="https://www.idalei.top/source/2022/03/28/njau-imis">NJAU-IMIS</a>
+
 
 ## 资料目录
 
